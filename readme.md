@@ -30,12 +30,12 @@ Users Page
 
 **How to Run**
 
-/nDownload the source code and extract the zip file.
-/nDownload or set up any local web server that runs PHP script.
-Open the web-server database and create a new database name it sfps_db.
-Import the SQL file located in the database folder of the source code.
-Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
-Open a web browser and browse the project. E.g [http://localhost/school-fees-payment-system]
+1. Download the source code and extract the zip file.
+2. Download or set up any local web server that runs PHP script.
+3. Open the web-server database and create a new database name it sfps_db.
+4. Import the SQL file located in the database folder of the source code.
+5. Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+6. Open a web browser and browse the project. E.g [http://localhost/school-fees-payment-system]
 
 Admin Default Access
 
