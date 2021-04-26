@@ -1,33 +1,45 @@
-Free Download Source Code "School Fees Payment Management System"
+# Project : cable billing application using PHP/MySQL
 
-FIRST Download
-
-1.XAMPP
-
-2."TEXT EDITOR" NOTEPAD++ OR SUBLIME TEXT 3 / ETC.
-
-3"School_Fees_Payment_Management_System"
-
-4. Download the zip file/ download winrar
-
-5. Extract the file and copy "School_Fees_Payment_Management_System" folder
-
-6.Paste inside root directory/ where you install xammp local disk C: drive D: drive E: paste: (for xampp/htdocs, 
-
-7. Open PHPMyAdmin (http://localhost/phpmyadmin)
-
-8. Create a database with name sfps_db
-
-6. Import sfps_db.sql file(given inside the zip package in SQL file folder)
-
-7.Run the script http://localhost/School_Fees_Payment_Management_System
+## About
+This is project helps to the cable operators who have lot of cable connections and difficult to maintain the monthly bill and yearly bill reports, so here I developed web application which maintains all the records for customers like customer detials which package they using, how much cost for that package and how much did they paid till now, if they have any balance and monthly report of all bills can able to get in printable format too.
 
 
-**LOGIN DETAILS** 
+### Features
+**Login Page**
+The page where the system admin or user submit their system credential to access the data and functionalities of the school fees payment system.
 
-Admin
-user: admin
-pass: admin123
+**Home Page**
+The page where the system users will be redirected by default when logging into the system.
 
-****** https:1sourcecodr.blogspot.com ******
-Subcribe my You tube Channel **** 1 Source code ****
+**customers Page**
+The page where the customers are listed  with thier details like address which package they using and managed.
+
+**TV packages & price Page**
+The page where the cable package like HD, Non-hd and others per level are listed and managed along with the price for each level.
+
+**Customer bill Page**
+The page where the list of customer with the help of the  ID is listed and managed.
+
+**Payments Page**
+​​​​​​​​​​​​​​The page where the payments are listed and managed.
+Payments Report Page
+The page where the monthly report of payments is shown and ready to print.​​​​​​​
+Users Page
+​​​​​​​The page where the system admin manages the list of cable bill payment system users.​​​​​​​
+
+
+**How to Run**
+
+Download the source code and extract the zip file.
+Download or set up any local web server that runs PHP script.
+Open the web-server database and create a new database name it sfps_db.
+Import the SQL file located in the database folder of the source code.
+Copy and paste the source code to the location where your local web server accessing your local projects. Example for XAMPP('C:\xampp\htdocs')
+Open a web browser and browse the project. E.g [http://localhost/school-fees-payment-system]
+
+Admin Default Access
+
+Username: ___________
+
+Password: ____________
+
